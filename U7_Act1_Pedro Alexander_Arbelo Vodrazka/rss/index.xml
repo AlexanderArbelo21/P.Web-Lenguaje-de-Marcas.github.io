@@ -1,96 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-	
-    <channel>
-		
-        <title>Noticias NBA-Pedro Alexander Arbelo Vodrazka</title>
-		<link></link>
+	<channel>
+		<title>Noticias NBA-Pedro Alexander Arbelo Vodrazka</title>
+		<link>https://github.com/AlexanderArbelo21/P.Web-Lenguaje-de-Marcas.github.io/tree/main</link>
 		<description>Aquí podrás encontrar las últimas noticias sobre la NBA, en especial, noticias sobre el torneo del Play-in para ver que 16 equipos competirán en los PlayOffs para ser el campeón de la NBA.</description>
 		<language>en-us</language>
 		<copyright><![CDATA[ Alexander ]]></copyright>
 		<image>
 			<url>https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png</url>
 			<title>Noticias NBA-Pedro Alexander Arbelo Vodrazka</title>
-			<link></link>
+			<link>https://github.com/AlexanderArbelo21/P.Web-Lenguaje-de-Marcas.github.io/tree/main</link>
 		</image>
-		
-        <item>
+		<item>
 			<title>La carrera por el MVP</title>
 			<link>https://www.marca.com/baloncesto/nba/2023/04/15/643a448122601d9a4f8b45e0.html</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>La carrera por el MVP</h1>
-			Embiid, Jokic o Antetokounmpo, ¿quién será el MVP de la temporada regular 2022/23?]]>
-            </description>
+			Embiid, Jokic o Antetokounmpo, ¿quién será el MVP de la temporada regular 2022/23?
+			]]></description>
 		</item>
-		
-        <item>
+		<item>
 			<title>Multa a los Dallas Mavericks</title>
 			<link>https://elpais.com/deportes/2023-04-14/la-nba-multa-con-750000-dolares-a-los-dallas-maverivks-de-doncic-por-dejarse-ganar.html</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>Multa a los Dallas Mavericks</h1>
-			La NBA multa a los Dallas Mavericks por 750.000$ por no jugar con sus jugadores importantes, dejándose ganar.]]>
-            </description>
+			La NBA multa a los Dallas Mavericks por 750.000$ por no jugar con sus jugadores importantes, dejándose ganar.
+			]]></description>
 		</item>
-		
-        <item>
+		<item>
 			<title>Suns contra Clippers, duelo de estrellas</title>
 			<link>https://as.com/baloncesto/nba/la-consolidacion-de-los-suns-durant-westbrook-y-la-vuelta-de-kawhi-n/</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>Suns contra Clippers, duelo de estrellas</h1>
-			Kevin Durant, Devin Booker, Chris Paul, Russell Westbrook, Kawhi Leonard y Paul George, tremenda primera ronda de los PlayOffs que nos espera.]]>
-            </description>
+			Kevin Durant, Devin Booker, Chris Paul, Russell Westbrook, Kawhi Leonard y Paul George, tremenda primera ronda de los PlayOffs que nos espera.
+			]]></description>
 		</item>
-		
-        <item>
+		<item>
 			<title>Sanción de Miles Bridges</title>
 			<link>https://www.marca.com/baloncesto/nba/2023/04/14/6439a904ca4741c53c8b4593.html</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>Sanción de Miles Bridges</h1>
-			La NBA sanciona a Miles Bridges con 30 partidos de sanción por violencia doméstica, habiendo cumplido ya 20 partidos.]]>
-            </description>
+			La NBA sanciona a Miles Bridges con 30 partidos de sanción por violencia doméstica, habiendo cumplido ya 20 partidos.
+			]]></description>
 		</item>
-		
-        <item>
+		<item>
 			<title>Estados Unidos se queda sin MVP</title>
 			<link>https://as.com/baloncesto/nba/estados-unidos-se-queda-sin-mvps-de-la-nba-n/</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>Estados Unidos se queda sin MVP</h1>
-			Se recordará esta temporada por no tener a ningún jugador americano entre los 3 mejores jugadores para ganar el MVP.]]>
-            </description>
+			Se recordará esta temporada por no tener a ningún jugador americano entre los 3 mejores jugadores para ganar el MVP.
+			]]></description>
 		</item>
-
-        <item>
+		<item>
+			<title>¿Quién será el campeón de la NBA?</title>
+			<link>https://www.elperiodico.com/es/liga-nba/20230415/playoffs-nba-muchos-candidatos-anillo-campeon-85972223</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>Alexander</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>¿Quién será el campeón de la NBA?</h1>
+			Veremos qué equipos son claros candidatos para ganar el ansiado anillo de la NBA, equipos tapados que pueden dar la sorpresa y más.
+			]]></description>
+		</item>
+		<item>
 			<title>Minnesota aplasta a unos jóvenes OKC Thunder</title>
 			<link>https://www.sportingnews.com/es/nba/news/minnesota-timberwolves-play-in-oklahoma-city-thunder-karl-anthony-towns-rudy-gobert-playoffs/nnblfqe3toe8jlt94zxpf39s</link>
 			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
 			<author>Alexander</author>
 			<category>SEO</category>
-			<description>
-            <![CDATA[ 
+			<description><![CDATA[ 
 			<h1>Minnesota aplasta a unos jóvenes OKC Thunder</h1>
-			Minnesota Timberwolves ganan por 25 puntos a unos OKC Thunder que no pudieron hacer nada contra Karl Anthony Towns y compañía.]]>
-            </description>
+			Minnesota Timberwolves ganan por 25 puntos a unos OKC Thunder que no pudieron hacer nada contra Karl Anthony Towns y compañía.
+			]]></description>
 		</item>
-
 	</channel>
 </rss>
